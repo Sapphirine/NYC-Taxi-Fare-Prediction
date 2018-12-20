@@ -5,12 +5,12 @@ Predicting taxi fares has always been important for our daily life. In this cour
 
 ## Folders
 
-`KaggleData`: Data from Kaggle Playground Prediction Competition [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction)   
-`Heatmap`: Files for a html demonstration graph
+[KaggleData](KaggleData): Data from Kaggle Playground Prediction Competition [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction)   
+[Heatmap](Heatmap): Files for a html demonstration graph
 
 ## Files
 `Project.ipynb`: Jupyter Notebook file including some of our machine learning codes and basic interpretation   
-`Application.ipynb`: Jupyter Notebook file for the Python Application including training
+[Application.ipynb](Application.ipynb): Jupyter Notebook file for the Python Application including training
 
 ## Author
 Di Wu (dw2834@columbia.edu), Shuhao Qiao and Yunfei Wang
