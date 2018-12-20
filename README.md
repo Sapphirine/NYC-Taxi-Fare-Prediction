@@ -6,7 +6,6 @@ Predicting taxi fares has always been important for our daily life. In this cour
 ## Folders
 
 `KaggleData`: Data from Kaggle Playground Prediction Competition [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction)   
-`Images`: Some images in our presentation   
 `Heatmap`: Files for a html demonstration graph
 
 ## Files
