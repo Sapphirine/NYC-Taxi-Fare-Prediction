@@ -1,5 +1,5 @@
 # NYC-Taxi-Fare-Prediction
-This is the project for EECS E6893 Big Data Analytics Final Project **NYC Taxi Fare Prediction** (Project ID: 201812-33)
+This is the project for EECS E6893 Big Data Analytics Final Project **NYC Taxi Fare Prediction** (Project ID: 201812-31)
 
 Predicting taxi fares has always been important for our daily life. In this course project we use different predictors and different algorithms to build several models to predict taxi fare in New York City. After finding out the best model we achieve, we analyze the model in many ways and find out the important predictors in the model as well as how each model affects the prediction results. Finally, we make a demo Python application for users to predict taxi fares.
 
